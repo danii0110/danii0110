@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanii0110&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 ## 📌 Introduction
 ### 🖥️ Backend developer
 <li>유지 보수하기 쉬운 코드를 지향하며,  성장을 위해  사이드 프로젝트를 진행하고 있습니다.</li>
@@ -37,7 +37,7 @@
 ## 📌 Certificate
 ▶️ SQLD<br/>
 ▶️ 워드프로세서<br/>
-▶️ TOEIC 805<br/><br/>
+▶️ TOEIC 805<br/><br/><br/>
 
 
 
