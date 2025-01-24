@@ -1,4 +1,4 @@
-## 📌 Introduction
+## 👤 Introduction
 ### Backend developer
 <li>유지 보수하기 쉬운 코드를 지향하며,  성장을 위해  사이드 프로젝트를 진행하고 있습니다.</li>
 <li>더 나은 비즈니스에 대해 고민하고, 서비스를 만드는 사람으로서, 고객에게 더 나은 비즈니스는 무엇인지 고민하며 개발합니다.</li>
@@ -12,31 +12,27 @@
 <li>멋쟁이사자처럼 프론트엔드 운영진 (2023.01 ~ 2023.12)</li>
 <li>멋쟁이사자처럼 아이디어톤 교내 1등🏆 (2023.05) </li><br/><br/>
 
-
-## 💻 Project
-<br/>
-- BookLog ~
-- MyTrip
-- 백야톤
-- 멋사 해커톤
-- MBIT
-
-
-<br/><br/>
 ## 🛠️ Tech Stacks
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+
 </div>
 
 
