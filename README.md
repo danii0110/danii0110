@@ -22,7 +22,7 @@ TODO
 - MBIT
 
 
-
+<br/><br/>
 ## 📌 Tech Stacks
 TODO
 <br/>
@@ -31,6 +31,7 @@ TODO
 ◼️ Database
 ◼️ Tools
 
+<br/><br/>
 ## 📌 Certificate
 ▶️ SQLD<br/>
 ▶️ 워드프로세서<br/>
