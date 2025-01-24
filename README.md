@@ -23,7 +23,7 @@ TODO
 
 
 
-## Tech Stacks
+## 📌 Tech Stacks
 TODO
 <br/>
 ◼️ Languages
@@ -31,5 +31,10 @@ TODO
 ◼️ Database
 ◼️ Tools
 
-Certificate
-Contact
+## 📌 Certificate
+▶️ SQLD (2024.06)
+▶️ 워드프로세서 (2021.08)
+▶️ TOEIC 805 (2024.01)
+
+
+## 📌 Contact
