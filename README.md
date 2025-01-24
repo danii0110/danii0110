@@ -13,7 +13,6 @@
 
 
 ## 📌 Project
-TODO
 <br/>
 - BookLog ~
 - MyTrip
@@ -23,16 +22,21 @@ TODO
 
 
 <br/><br/>
-## 📌 Tech Stacks
-TODO
-<br/>
+## 🛠️ Tech Stacks
 ◼️ Languages
+<br/>
 ◼️ Frameworks & Libraries
+<br/>
 ◼️ Database
+<br/>
 ◼️ Tools
+<br/>
 
 <br/><br/>
 ## 📌 Certificate
 ▶️ SQLD<br/>
 ▶️ 워드프로세서<br/>
-▶️ TOEIC 805<br/>
+▶️ TOEIC 805<br/><br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mo9mo9})](https://solved.ac/{mo9mo9})
+
