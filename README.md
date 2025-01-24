@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)<br/>
 ## 📌 Introduction
 ### 🖥️ Backend developer
 <li>유지 보수하기 쉬운 코드를 지향하며,  성장을 위해  사이드 프로젝트를 진행하고 있습니다.</li>
@@ -37,6 +38,9 @@
 ▶️ SQLD<br/>
 ▶️ 워드프로세서<br/>
 ▶️ TOEIC 805<br/><br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mo9mo9})](https://solved.ac/{mo9mo9})
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danii0110)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mo9mo9)](https://solved.ac/mo9mo9)
