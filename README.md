@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
 </div>
-
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danii0110)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
