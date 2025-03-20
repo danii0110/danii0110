@@ -36,14 +36,6 @@
 </div>
 
 
-
-<br/><br/>
-## 📌 Certificate
-▶️ SQLD<br/>
-▶️ 워드프로세서<br/><br/>
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danii0110)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mo9mo9)](https://solved.ac/mo9mo9)
